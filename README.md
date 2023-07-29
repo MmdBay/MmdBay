@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Mohammad
 
+[![GitHub followers](https://img.shields.io/github/followers/MmdBay?logo=GitHub&style=for-the-badge)](https://github.com/MmdBay) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/MmdBay?logo=github&style=for-the-badge)](https://github.com/MmdBay) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/MmdBay?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/MmdBay)
+
 I'm a Full Stack JavaScript Developer with [1] years of experience in building high-quality, scalable web applications. 
 
 ## 🛠️ Technologies & Tools
@@ -31,9 +33,11 @@ I'm a Full Stack JavaScript Developer with [1] years of experience in building h
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Mohammad](https://mohammad.hasanbeygi.site/).
 
+<img style="height: 250px;" src="https://github-readme-stats.vercel.app/api?username=MmdBay&theme=blue-green" alt="GitHub stats">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdBay&theme=blue-green" alt="GitHub stats">
+
 ## 📫 How to reach me
 
-You can find me on ![LinkedIn][2.2], or via email (Muhammad.hasanbeygi76@gmail.com).
+You can find me on ![LinkedIn][2.2], or via email (Muhammad.hasanbeygi76@gmail.com)
 
 <!-- Icons -->
 

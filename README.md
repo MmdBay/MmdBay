@@ -18,6 +18,7 @@ I'm a Full Stack JavaScript Developer with [1] years of experience in building h
 ![JSS](https://img.shields.io/badge/-JSS-black?style=flat-square&logo=jss)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat-square&logo=styled-components)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
+![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
 ![pnpm](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)

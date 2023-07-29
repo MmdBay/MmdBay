@@ -13,6 +13,7 @@ I'm a Full Stack JavaScript Developer with [1] years of experience in building h
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next-dot-js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![JSS](https://img.shields.io/badge/-JSS-black?style=flat-square&logo=jss)
@@ -25,7 +26,7 @@ I'm a Full Stack JavaScript Developer with [1] years of experience in building h
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-## 📝 Blog & Writing
+## 📝 Blog
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Mohammad](https://mohammad.hasanbeygi.site/).
 

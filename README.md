@@ -33,7 +33,7 @@ I'm a Full Stack JavaScript Developer with [1] years of experience in building h
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Mohammad](https://mohammad.hasanbeygi.site/).
 
-<img style="height: 250px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=MmdBay&theme=blue-green" alt="GitHub stats">&nbsp;<img style="height: 250px; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdBay&theme=blue-green" alt="GitHub stats">
+<img style="height: 250px;" src="https://github-readme-stats.vercel.app/api?username=MmdBay&theme=blue-green" alt="GitHub stats">&nbsp;<img style="height: 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdBay&theme=blue-green" alt="GitHub stats">
 
 ## 📫 How to reach me
 

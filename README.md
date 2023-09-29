@@ -28,6 +28,7 @@ I'm a Full Stack JavaScript Developer with [1] years of experience in building h
 ![pnpm](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![BunJs](https://img.shields.io/badge/-bun-black?style=flat-square&logo=bun)
 
 ## 📝 Blog
 

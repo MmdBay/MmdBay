@@ -32,9 +32,18 @@ I'm a Full Stack JavaScript Developer with [1] years of experience in building h
 
 ## 📝 Blog
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Mohammad](https://mohammad.hasanbeygi.site/).
+<div align="center">
+    <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmdbay&hide=contribs,issues&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</div>
 
-<img style="height: 250px;" src="https://github-readme-stats.vercel.app/api?username=MmdBay&theme=blue-green" alt="GitHub stats">&nbsp;<img style="height: 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdBay&theme=blue-green" alt="GitHub stats">
+<br>
+    
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdbay&layout=donut&theme=radical" alt="Top Langs">
+  </a>
+</div>
 
 ## 📫 How to reach me
 

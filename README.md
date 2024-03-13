@@ -4,7 +4,7 @@ I'm a Full Stack JavaScript Developer with [2] years of experience in building h
 ## Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascriptddddd)
-![TypeScript And its frameworks](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typecript)
+![TypeScript And its frameworks](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js And its frameworks](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![MongoDB And Mongoose](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 

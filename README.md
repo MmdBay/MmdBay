@@ -13,4 +13,4 @@ I'm a Full Stack JavaScript developer with 2 years of hands-on experience in bui
 ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## How to reach me
-Email Me: Muhammad.hasanbeygi76@gmail.com
+Email me : Muhammad.hasanbeygi76@gmail.com

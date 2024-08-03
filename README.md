@@ -1,7 +1,7 @@
 # 👋 Hello, I'm MmdBay(Mohammad)
  with [2] years of experience in building high-quality, scalable web applications. 
 
-I'm a Full Stack JavaScript developer with 2 years of hands-on experience in building and maintaining web applications. Specializing in TypeScript and Node.js, I have a strong foundation in both the front-end and back-end aspects of web development. My expertise extends to working with various libraries and frameworks within the JavaScript ecosystem, enabling me to deliver robust and scalable solutions.
+I'm a Full Stack JavaScript developer with 3 years of hands-on experience in building and maintaining web applications. Specializing in TypeScript and Node.js, I have a strong foundation in both the front-end and back-end aspects of web development. My expertise extends to working with various libraries and frameworks within the JavaScript ecosystem, enabling me to deliver robust and scalable solutions.
 
 
 ## Technologies & Tools
